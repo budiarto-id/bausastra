@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "cordova",
+    "platformPackage": "pwabuilder-cordova",
+    "platformVersion": "2.0.0-rc.1",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2018-12-06 16:23:09 Z",
+    "generatedURL": "https://bausastra.tera.pw/manifest.json"
+}
