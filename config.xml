@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="pw.tera.bausastra" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="id.co.laporanku" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Bausastra</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        O.
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="https://bausastra.tera.pw/" />
+    <content src="https://m.laporanku.co.id/" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="tel:*" />
@@ -31,7 +31,7 @@
     </platform>
     <preference name="Orientation" value="portrait" />
     <preference name="Fullscreen" value="false" />
-    <allow-navigation hap-rule="yes" href="https://bausastra.tera.pw/*" />
+    <allow-navigation hap-rule="yes" href="https://m.laporanku.co.id/*" />
     <platform name="windows">
     </platform>
     <platform name="wp8">
