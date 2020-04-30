@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="id.budiarto.bausastra" version="0.1.0">
+  <name>Bausastra</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="arifbudi.arto@yahoo.com">
+    Arif Budiarto
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
